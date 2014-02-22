@@ -1,0 +1,4087 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document mc:Ignorable="w14 wp14" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+	<w:body>
+		<w:p w14:paraId="1D60314A" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>ALIT216</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="0E4FA719" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>25/10/2013</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="20CA1AF0" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+				<w:rPr>
+					<w:ins w:author="Miri Nakamura User" w:date="2013-11-09T09:39:00Z" w:id="0"/>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>ID860074</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="04782D27" w14:textId="77777777" w:rsidP="0001158E" w:rsidR="0001158E" w:rsidRDefault="0001158E" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:pPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:39:00Z" w:id="1">
+					<w:pPr>
+						<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+					</w:pPr>
+				</w:pPrChange>
+			</w:pPr>
+			<w:ins w:author="Miri Nakamura User" w:date="2013-11-09T09:39:00Z" w:id="2">
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+						<w:color w:val="000000"/>
+						<w:sz w:val="24"/>
+						<w:szCs w:val="24"/>
+					</w:rPr>
+					<w:t>TITLE</w:t>
+				</w:r>
+			</w:ins>
+		</w:p>
+		<w:p w14:paraId="1168DAFB" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="7EA5904B" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">The film, </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>The Goddess</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, delivers a fairly transparent narrative which portrays the contentious duality </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>in</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the life of a caring mother ostracized for working as a lady of the night. Perhaps most obvious </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:39:00Z" w:id="3">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>-</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>if you know any Mandarin</w:t>
+			</w:r>
+			<w:r w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:39:00Z" w:id="4">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>-</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">is the film’s untranslated title, </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>shennü</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>(</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="MS Mincho" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>神女</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">), which can be interpreted as “goddess” or “prostitute” depending on the context. </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="5"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>An</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="5"/>
+			<w:r w:rsidR="00E25302">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="5"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">aspect of the film that is not quite so </w:t>
+			</w:r>
+			<w:proofErr w:type="gramStart"/>
+			<w:r w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:40:00Z" w:id="6">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>clarion</w:t>
+			</w:r>
+			<w:proofErr w:type="gramEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, however, is its critique of the effects modernization has had on the condition of </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="7"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>the worker</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="7"/>
+			<w:r w:rsidR="00E25302">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="7"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. Because </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="8"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>he</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="8"/>
+			<w:r w:rsidR="00E25302">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="8"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">is introduced as a troublesome bully and dies a troublesome bully, it is easy to write off the boss as a static character whose sole purpose is to antagonize the mother. The boss’s character may not change much during the film, but impulse aside, </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:43:00Z" w:id="9">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>I think</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">he serves as much more than a simple antagonist. </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:43:00Z" w:id="10">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>I thin</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14" w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:43:00Z" w:id="11">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>k</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">he represents a tragic figure;</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the result of contradicting pressures forced on the common person during their pursuit of a modern </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="12"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>lifestyle</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="12"/>
+			<w:r w:rsidR="00E25302">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="12"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>.</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="309D8788" w14:textId="6E1DC818" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:strike/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:46:00Z" w:id="13">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>What it means to achieve</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the ideal modern lifestyle is revealed early in the film when the mother leaves her home to work the streets. </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="14"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>At minute 00:04:44</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="14"/>
+			<w:r w:rsidR="00E25302">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="14"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, she exits the frame riding a </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:47:00Z" w:id="15">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>rickshaw</w:t>
+			</w:r>
+			<w:ins w:author="Miri Nakamura User" w:date="2013-11-09T09:46:00Z" w:id="16">
+				<w:r w:rsidR="00E25302" w:rsidRPr="00E25302">
+					<w:rPr>
+						<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+						<w:color w:val="000000"/>
+						<w:sz w:val="24"/>
+						<w:szCs w:val="24"/>
+						<w:highlight w:val="yellow"/>
+						<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:47:00Z" w:id="17">
+							<w:rPr>
+								<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+								<w:color w:val="000000"/>
+								<w:sz w:val="24"/>
+								<w:szCs w:val="24"/>
+							</w:rPr>
+						</w:rPrChange>
+					</w:rPr>
+					<w:t>,</w:t>
+				</w:r>
+			</w:ins>
+			<w:r w:rsidRPr="00E25302">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T09:47:00Z" w:id="18">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t xml:space="preserve">and the camera</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">fades into a low-level, low-angle shot of Shanghai’s nighttime skyline lit up by neon department store signs. Two of them belong to the illustrious, Sydney-backed </w:t>
+			</w:r>
+			<w:r w:rsidR="0045541B">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:br/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Sun </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>Sun</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">(</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="MS Mincho" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>新新</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>) and Sincere (</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="MS Mincho" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>先施</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">) department </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="19"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>stores</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="19"/>
+			<w:r w:rsidR="00496BAD">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="19"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>.</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="FootnoteReference"/>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:footnoteReference w:id="1"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Members of The Four Great Companies, these two department stores supplied Shanghai with modern goods like soda drinks and cosmetics.</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="FootnoteReference"/>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:footnoteReference w:id="2"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">They tower over the camera’s viewpoint in this shot </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>and serve</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">as idealized symbols </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:lastRenderedPageBreak/>
+				<w:t>of socioeconomic status in the modern world. To achieve the ideal modern lifestyle mean</w:t>
+			</w:r>
+			<w:ins w:author="Miri Nakamura User" w:date="2013-11-09T10:03:00Z" w:id="20">
+				<w:r w:rsidR="00374BFA">
+					<w:rPr>
+						<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+						<w:color w:val="000000"/>
+						<w:sz w:val="24"/>
+						<w:szCs w:val="24"/>
+					</w:rPr>
+					<w:t>s</w:t>
+				</w:r>
+			</w:ins>
+			<w:del w:author="Miri Nakamura User" w:date="2013-11-09T10:03:00Z" w:id="21">
+				<w:r w:rsidDel="00374BFA" w:rsidRPr="006B1786">
+					<w:rPr>
+						<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+						<w:color w:val="000000"/>
+						<w:sz w:val="24"/>
+						<w:szCs w:val="24"/>
+					</w:rPr>
+					<w:delText>t</w:delText>
+				</w:r>
+			</w:del>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>becoming</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">a successful business</w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>person</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">like the owners of the department stores.</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="266530AB" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">After revealing the ideal </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">of a </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>modern lifestyle with its shining lights and business ownership, the skyline scene immediately dissolves into a ground-level, long-distance shot of nicely dressed people scurrying about at the foot of the department stores staring through storefront windows and purchasing modern trifles. A pawn s</w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>hop is found in the background and h</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">erein lies the inherent contradiction modernity imposes on the lives of characters like the boss. The pawn shop </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>embodies</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the contradiction </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>that impacts people like</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the boss</w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>. L</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">ike the owners of the department stores, </w:t>
+			</w:r>
+			<w:proofErr w:type="gramStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>pawn shop</w:t>
+			</w:r>
+			<w:proofErr w:type="gramEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">owners desire the success and happiness that is </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>expected</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">with the modern lifestyle, yet never achieve the status </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="22"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>because they can only be as modern as the used goods they sell</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="22"/>
+			<w:r w:rsidR="00374BFA">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="22"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. The </w:t>
+			</w:r>
+			<w:proofErr w:type="gramStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>pawn shop</w:t>
+			</w:r>
+			<w:proofErr w:type="gramEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">owner belongs to the </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>xiao</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>shimin</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="FootnoteReference"/>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:footnoteReference w:id="3"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">consisting of clerks and shopkeepers who reside </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00374BFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:iCs/>
+					<w:strike/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:07:00Z" w:id="23">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:iCs/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>somewhere</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">in the lower middle class and </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="24"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>ultimately end up stronger consumers than producers</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="24"/>
+			<w:r w:rsidR="00374BFA">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="24"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>. The</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>xiao</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>shimin</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>, or petit bourgeoisie is where the boss also resides. The more rigorously the boss pursues the idealized modern lifestyle, the more entrenched in consumerism he becomes</w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="25"/>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>He</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">embraces consumerism because it the only obtainable aspect of his ideal. </w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="25"/>
+			<w:r w:rsidR="00C86679">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="25"/>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="1308D5CF" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Contrary to the happiness </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>he believes he will enjoy a</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">s a member of the petit bourgeoisie, the boss’s attempt at a modern lifestyle traps him in a self-destructive cycle of consumerism. To solidify this point, Wu </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>Yongang</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">includes an objective shot in </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>The Goddess</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">at the eleventh minute where the boss is observed through the bars of a staircase handrail smiling and </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="26"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>gambling</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="26"/>
+			<w:r w:rsidR="00C86679">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="26"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">his monies away in a room full of people. He loses </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>every cent he has</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>, yet is so entrenched in his mission to live the modern lifestyle that the trouble o</w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>n his face quickly evaporates. In this case, t</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>he bars literally represent the boss’s imprisonment by consumeri</w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">sm. Next, the camera follows </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:lastRenderedPageBreak/>
+				<w:t>him</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">as he leaves the table and stares out the window. Again, his face is framed by two bars (the boards in the window’s </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="27"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>framing</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="27"/>
+			<w:r w:rsidR="00C86679">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="27"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">) as </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>if pointing</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">out that even though he </w:t>
+			</w:r>
+			<w:r w:rsidR="000C6D1A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>is broke</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, and even though his life really bears no reflection of the modern lifestyle he pursues, he will not be shaken awake to ever realize the folly of his dream. </w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="54FF16D4" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>A match on action occurs when the view outside the window is revealed to be the Shanghai skyline</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">; </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the </w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>film’s metaphor for the modern lifestyle</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. This time, however, the skyline appears at nearly eye-level, and suddenly the mother’s image is superimposed over the scene alongside the buildings. </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="28"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>Even though the mother, as a prostitute, has also failed to acquire the happiness of the ideal modern lifestyle, the boss has mentally equated her to modernity and thinks she will enable him to achieve the lifestyle he desires.</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="FootnoteReference"/>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:footnoteReference w:id="4"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Near the end of the film it </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>becomes</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">apparent this is not true and he will never achieve a modern lifestyle, but he is too fix</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>at</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">ed on his ideal. </w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="28"/>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="28"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>Tragically, he</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">will</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">never see the bars that </w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">imprison him and </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>s</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">ever his </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">dream from </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="29"/>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>reality</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="29"/>
+			<w:r w:rsidR="00F9042B">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="29"/>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>.</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="591B986F" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">The boss devises a crooked plan to seize the modern lifestyle he craves and smiles smugly to himself. His plan? He will force the mother to support him in a prostitute-pimp relationship. </w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>H</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>e gloats</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">to himself and</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the mother’s image disappears ju</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>st as abruptly as it appeared. Though s</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">he </w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>plays</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">a vital role in the boss’s delusional plan, </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>she</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">is</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">forgotten</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">as soon as the boss </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>begins</w:t>
+			</w:r>
+			<w:r w:rsidR="002A1B14">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">dreaming of his modern future</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="30"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">The </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">reason the skyline appears </w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="30"/>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="30"/>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">at nearly eyelevel is because the </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">boss already looks upon </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>the scene</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">as though he </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">were </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="31"/>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>an equal member</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="31"/>
+			<w:r w:rsidR="00101C05">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="31"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>. He thinks he is making his own good fortune like the department store owners and is dependent on no one</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">else</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. </w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="12B3B6DD" w14:textId="77777777" w:rsidP="00CC5052" w:rsidR="00CC5052" w:rsidRDefault="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">The boss has effectively persuaded himself that he is still an independent man and justifies his exploitation of the mother by relying on the fact that he protected her from police </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="32"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>once</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="32"/>
+			<w:r w:rsidR="00101C05">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="32"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. At this early juncture in the film, we have witnessed the boss’s desperate and evil </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:lastRenderedPageBreak/>
+				<w:t xml:space="preserve">conniving ways. </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>Already eleven minutes into the film, it becomes apparent there will probably be no further development of the boss’s static, antagonistic character, b</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">ut this is not true! There is one subtle change that takes place in the </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:33:00Z" w:id="33">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>film and it</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">can only be noticed at the very beginning and end of </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:iCs/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>The Goddess</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. The subtle detail that is easily overlooked is the wallpapering of the boss’s room and the wallpapering of the room he gambles in. </w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="137AFC47" w14:textId="03F29064" w:rsidP="00CC5052" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">When the mother first takes shelter from the police in the boss’s room (00:09:30 in the film), his walls are covered in newspaper. In the </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">scene </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:strike/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:33:00Z" w:id="34">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>I described</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">where the boss is </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:strike/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:33:00Z" w:id="35">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>observed</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">gambling, there is no </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">newspaper </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052" w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:strike/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="36">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>on the walls of the room</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">at all</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. The change </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:strike/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="37">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>to note</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">is that </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">at </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">end of the film, the newspaper in the </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">boss’s room </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">has </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052" w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="38">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>vanished</w:t>
+			</w:r>
+			<w:r w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="39">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="00CC5052" w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="40">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>and</w:t>
+			</w:r>
+			<w:r w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="41">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t xml:space="preserve">the</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">gambling </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>den</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">is plastered in </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>it</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:strike/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="42">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t xml:space="preserve">at </w:t>
+			</w:r>
+			<w:ins w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="43">
+				<w:r w:rsidR="00101C05">
+					<w:rPr>
+						<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+						<w:strike/>
+						<w:color w:val="000000"/>
+						<w:sz w:val="24"/>
+						<w:szCs w:val="24"/>
+					</w:rPr>
+					<w:t>(</w:t>
+				</w:r>
+			</w:ins>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>01:03:00</w:t>
+			</w:r>
+			<w:ins w:author="Miri Nakamura User" w:date="2013-11-09T10:34:00Z" w:id="44">
+				<w:r w:rsidR="00101C05">
+					<w:rPr>
+						<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+						<w:color w:val="000000"/>
+						<w:sz w:val="24"/>
+						<w:szCs w:val="24"/>
+					</w:rPr>
+					<w:t>)</w:t>
+				</w:r>
+			</w:ins>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. This is </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00101C05">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:strike/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:35:00Z" w:id="45">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t xml:space="preserve">probably </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the only </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">character </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>development the bos</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">s </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">receives in the entire film. </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="46"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>It represents the spread of the ideals associated with the pursuit of the modern lifestyle</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="46"/>
+			<w:r w:rsidR="00101C05">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="46"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. The </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="47"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>idea</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="47"/>
+			<w:r w:rsidR="00101C05">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="47"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">started as </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="48"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>individual musings by common people like the boss, but quickly spread</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">like a virus</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">to the public space represented by the gambling </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>den</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="48"/>
+			<w:r w:rsidR="00101C05">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="48"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. </w:t>
+			</w:r>
+			<w:r w:rsidRPr="0008504A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:39:00Z" w:id="49">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>The spread</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">of the modern ideal, which could </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">also </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">be compared to </w:t>
+			</w:r>
+			<w:r w:rsidRPr="0008504A">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+					<w:highlight w:val="yellow"/>
+					<w:rPrChange w:author="Miri Nakamura User" w:date="2013-11-09T10:40:00Z" w:id="50">
+						<w:rPr>
+							<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+							<w:color w:val="000000"/>
+							<w:sz w:val="24"/>
+							<w:szCs w:val="24"/>
+						</w:rPr>
+					</w:rPrChange>
+				</w:rPr>
+				<w:t>the spread</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">of a</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">sensationalist article in a newspaper</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, is evidenced by the fact that the boss has thugs at his side throughout the film and spends his time and money with people </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>who</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="00CC5052" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>assumedly</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">engage in </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>similar</w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">activities. Near</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the end of the film, the public space has been overwhelmed by an ideal of modernity that cannot be achieved and </w:t>
+			</w:r>
+			<w:r w:rsidR="00CC5052">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">can </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>only corrupt.</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="702CE7E9" w14:textId="77777777" w:rsidP="006B1786" w:rsidR="006B1786" w:rsidRDefault="006B1786" w:rsidRPr="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">The subtle change in newspapering is the reason the boss should not be considered a simple antagonist. From the moment he decided to exploit the mother, the stage was set for </w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">his own </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>tragedy</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">which </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>parallels</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the mother’s in the sense that they both pursued ideals in their lives that were almost entirely unobtainable</w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">and ultimately paid a large price for their actions</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>In the boss’s case, he</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">could no longer be freed from his spiraling consumerism. </w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">To borrow the </w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:lastRenderedPageBreak/>
+				<w:t xml:space="preserve">disparaging words of economist </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>Gonda</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>Yasunosuke</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">who spoke of modern girls and modern boys in Japan, the modern lifestyle the boss </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>pursued</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">“connected</w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">[him]</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">to the petty bourgeoisie” with deep roots in consumerism and “</w:t>
+			</w:r>
+			<w:commentRangeStart w:id="51"/>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>no direct connection to labor</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="51"/>
+			<w:r w:rsidR="0008504A">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="51"/>
+			</w:r>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>.”</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rStyle w:val="FootnoteReference"/>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:footnoteReference w:id="5"/>
+			</w:r>
+			<w:r w:rsidR="009C7AFA" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">The world he lived in prescribed an unrealistic, modern lifestyle as a successful owner of a massive business. </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="52"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>In his pursuit of this end, he grew completely irration</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">al. He sold nothing, yet believed </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">he did because </w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">he enjoyed a fairly steady income from stealing </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>the mother</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>’s earnings</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. He </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>was not working</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, yet </w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>believed</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">he </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>was</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">because he </w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>passively</w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">worked</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">as a</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">procurer. The boss </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">internalized unrealistic ideals </w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">and, like all the other gamblers in the gambling </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>den</w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, publicly pursued activities to achieve that ideal, but ultimately grew visibly corrupt. </w:t>
+			</w:r>
+			<w:r w:rsidR="009C7AFA">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:tab/>
+			</w:r>
+			<w:commentRangeEnd w:id="52"/>
+			<w:r w:rsidR="0008504A">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="52"/>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="05C9D7B9" w14:textId="77777777" w:rsidP="003E18B9" w:rsidR="00496BAD" w:rsidRDefault="006B1786">
+			<w:pPr>
+				<w:spacing w:after="0" w:line="480" w:lineRule="auto"/>
+				<w:ind w:firstLine="720"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Unfortunately for </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>the boss</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, modernity cannot exist in the form he embraced. This is why his purpose in the film is not </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">to </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">serve </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">solely as </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the antagonist to the mother, but as </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">symbol of the </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">negative </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">effects the unrealistic </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">and conflicting </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">ideals modernity </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>had on</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">regular people. His </w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>character is tragic</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">because he pursued the life of a wealthy businessperson, but ended up dying in a gambling den because he lost himself in a world of insatiable consumerism </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>where he mistreated everyone</w:t>
+			</w:r>
+			<w:r w:rsidR="003E18B9">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Because the boss and the mother </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">both </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">played </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">tragic </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">roles </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">in </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:i/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>The Goddess</w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">I believe the boss </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>should not be</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>villainized</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, but </w:t>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">rather pitied because he was just another person who lost his way in pursuit of the </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="53"/>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>unobtainable</w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="53"/>
+			<w:r w:rsidR="0008504A">
+				<w:rPr>
+					<w:rStyle w:val="CommentReference"/>
+				</w:rPr>
+				<w:commentReference w:id="53"/>
+			</w:r>
+			<w:r w:rsidR="00C17753">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. </w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="72F60084" w14:textId="77777777" w:rsidP="000A7C1D" w:rsidR="005E269E" w:rsidRDefault="005E269E"/>
+		<w:p w14:paraId="627EC5E8" w14:textId="77777777" w:rsidP="005E269E" w:rsidR="005E269E" w:rsidRDefault="005E269E" w:rsidRPr="00A36A14">
+			<w:pPr>
+				<w:pStyle w:val="ListParagraph"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00A36A14">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>Positive aspects</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="347B3C29" w14:textId="16707AF8" w:rsidP="00B549B9" w:rsidR="005E269E" w:rsidRDefault="002B3CC0" w:rsidRPr="00B549B9">
+			<w:pPr>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="00B549B9">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">This paper offered an interesting, alternative reading of an underappreciated character, the male villain in </w:t>
+			</w:r>
+			<w:r w:rsidR="00B549B9">
+				<w:rPr>
+					<w:i/>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>The Goddess</w:t>
+			</w:r>
+			<w:r w:rsidR="00B549B9">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">. Instead of depicting him as a black-and-white, flat character, the author argues that he is an important character, who is a victim of modernization, </w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">victimized </w:t>
+			</w:r>
+			<w:r w:rsidR="00B549B9">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>as much as the main character of the prostitute. The author argues this</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">point</w:t>
+			</w:r>
+			<w:r w:rsidR="00B549B9">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">using solid visual analysis for the most part, and </w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">the author has a great eye to visual detail. I particularly enjoyed his/her observation about the newspaper missing and reappearing in the public space (though I did not </w:t>
+			</w:r>
+			<w:r w:rsidR="00EF2405">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>necessarily</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">agree with the reading of the scene).</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="76BFB36E" w14:textId="77777777" w:rsidP="005E269E" w:rsidR="005E269E" w:rsidRDefault="005E269E" w:rsidRPr="00A36A14">
+			<w:pPr>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="33536831" w14:textId="77777777" w:rsidP="005E269E" w:rsidR="005E269E" w:rsidRDefault="005E269E" w:rsidRPr="00A36A14">
+			<w:pPr>
+				<w:pStyle w:val="ListParagraph"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00A36A14">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>Things that need improvement</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="21D0E290" w14:textId="1EDA56B0" w:rsidP="007248F0" w:rsidR="005E269E" w:rsidRDefault="003F14C3">
+			<w:pPr>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>The writer needs to work on producing a more concrete analysis that comes from visual evidence, not from the writer’s own subjective opinions. I did not understand how the writer reached some of the conclusions—like how the newspaper appearing in the public space was somehow an indication of a “modern life spreading like a virus,” or the quote about how “</w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">He </w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>was not working</w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">, yet </w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>believed</w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">he </w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>was</w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">because he </w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>passively worked</w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0" w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">as a</w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t xml:space="preserve">procurer.” </w:t>
+			</w:r>
+			<w:r w:rsidR="007248F0">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>These statements seem to read into the psychology of the character, instead of showing how the character believed in such a thing through strong textual evidence.</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="393C4E0B" w14:textId="30704DE9" w:rsidP="007248F0" w:rsidR="003F14C3" w:rsidRDefault="003F14C3" w:rsidRPr="00A36A14">
+			<w:pPr>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">The writer also needs to work on development of thought. It felt like the writer wanted to just make one point: that the boss is not a simple villain. Although this was clearly argued by the evidences cited, it never really developed into anything innovative. The main thing the writer needs to do is to organize the paragraphs by the writer’s thought development. Note how most paragraphs begin with a description of a scene (“</w:t>
+			</w:r>
+			<w:r w:rsidRPr="006B1786">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>A match on action occurs when the view outside the window is revealed to be the Shanghai skyline</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="24"/>
+					<w:szCs w:val="24"/>
+				</w:rPr>
+				<w:t>”)</w:t>
+			</w:r>
+			<w:r w:rsidRPr="003F14C3">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>instead of the writer’s analytical thought. Try to do the latter next time, and it might help bring out the thoughts. The visual observations are great, but they need to be us</w:t>
+			</w:r>
+			<w:bookmarkStart w:id="54" w:name="_GoBack"/>
+			<w:bookmarkEnd w:id="54"/>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>ed as evidence, not as the main points.</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="65908215" w14:textId="77777777" w:rsidP="005E269E" w:rsidR="005E269E" w:rsidRDefault="005E269E" w:rsidRPr="00A36A14">
+			<w:pPr>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="73DB3C50" w14:textId="77777777" w:rsidP="005E269E" w:rsidR="005E269E" w:rsidRDefault="005E269E" w:rsidRPr="00A36A14">
+			<w:pPr>
+				<w:pStyle w:val="ListParagraph"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00A36A14">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>Grammatical/Stylistic Notes</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="1535A905" w14:textId="13791F29" w:rsidP="000C534B" w:rsidR="000C534B" w:rsidRDefault="000C534B">
+			<w:pPr>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">The writer needs to work on writing in a more concise style. Unnecessary phrases are inserted throughout the paper, which obstructs the reader’s comprehension. Please note some examples where I have crossed off phrases like “I think,” along with some repetitions. </w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="46A1EEB2" w14:textId="63D7EFA4" w:rsidP="000C534B" w:rsidR="000C534B" w:rsidRDefault="000C534B">
+			<w:pPr>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>Two minor points (see highlighted parts):</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="3CA5BD5A" w14:textId="450BC71D" w:rsidP="000C534B" w:rsidR="005E269E" w:rsidRDefault="000C534B">
+			<w:pPr>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>-</w:t>
+			</w:r>
+			<w:proofErr w:type="gramStart"/>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>two</w:t>
+			</w:r>
+			<w:proofErr w:type="gramEnd"/>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">independent phrases require a comma before “and”</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="6FE26BC3" w14:textId="39754B56" w:rsidP="000C534B" w:rsidR="000C534B" w:rsidRDefault="000C534B" w:rsidRPr="00A36A14">
+			<w:pPr>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>-</w:t>
+			</w:r>
+			<w:proofErr w:type="gramStart"/>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>use</w:t>
+			</w:r>
+			<w:proofErr w:type="gramEnd"/>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">double hyphens to insert phrases, not single hyphens</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="3D5DFBF0" w14:textId="77777777" w:rsidP="005E269E" w:rsidR="005E269E" w:rsidRDefault="005E269E" w:rsidRPr="00A36A14">
+			<w:pPr>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="114D79B1" w14:textId="19A598E3" w:rsidP="0008504A" w:rsidR="005E269E" w:rsidRDefault="005E269E">
+			<w:pPr>
+				<w:pStyle w:val="ListParagraph"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00A36A14">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>Grade</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="00E6FBDC" w14:textId="0860594B" w:rsidP="0008504A" w:rsidR="0008504A" w:rsidRDefault="00A471C3" w:rsidRPr="0008504A">
+			<w:pPr>
+				<w:pStyle w:val="ListParagraph"/>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">B:  The idea is </w:t>
+			</w:r>
+			<w:r w:rsidR="00942776">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">good, visual analysis is fine, </w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">but </w:t>
+			</w:r>
+			<w:r w:rsidR="00942776">
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t>the arguments need</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="text2" w:themeTint="99" w:val="8496B0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">more evidence and development; Style needs to be more concise and clear.</w:t>
+			</w:r>
+		</w:p>
+		<w:sectPr w:rsidR="0008504A" w:rsidRPr="0008504A">
+			<w:pgSz w:h="15840" w:w="12240"/>
+			<w:pgMar w:bottom="1440" w:footer="720" w:gutter="0" w:header="720" w:left="1440" w:right="1440" w:top="1440"/>
+			<w:cols w:space="720"/>
+			<w:docGrid w:linePitch="360"/>
+		</w:sectPr>
+	</w:body>
+</w:document>
