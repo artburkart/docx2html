@@ -13,9 +13,10 @@ getBody = function(path, callback) {
         var zip = new AdmZip(path);
         var zipEntries = zip.getEntries();
 
-        // iterate through documents
+        // grabs the body xml
         var entry = _.findWhere(zipEntries, {entryName: "word/document.xml"});
 
+        // parse the body xml and return the blob of interest
         parser.parseString(entry.getData(), function(err, result) {
             if (err) return callback(undefined, err);
             else {
@@ -23,7 +24,6 @@ getBody = function(path, callback) {
                 return callback(body, undefined);
             }
         });
-        return callback(undefined, "Error: not a valid docx file.");
     });
 }
 
