@@ -1,0 +1,25 @@
+{
+  "name": "docx",
+  "version": "0.0.0",
+  "description": "docx to html",
+  "main": "docx.js",
+  "dependencies": {
+    "adm-zip": "~0.4.4",
+    "xml2js": "~0.4.1",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Chachi-inactive/docx2html.git"
+  },
+  "author": "Brian Gapinski and Arthur Burkart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chachi-inactive/docx2html/issues"
+  },
+  "homepage": "https://github.com/Chachi-inactive/docx2html"
+}
