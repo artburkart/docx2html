@@ -6,7 +6,8 @@
   "dependencies": {
     "adm-zip": "~0.4.4",
     "xml2js": "~0.4.1",
-    "underscore": "~1.6.0"
+    "underscore": "~1.6.0",
+    "elementtree": "~0.1.6"
   },
   "devDependencies": {},
   "scripts": {

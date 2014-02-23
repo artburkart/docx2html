@@ -1,7 +1,15 @@
 var AdmZip = require('adm-zip'),
 parser = require('xml2js').Parser(),
 _ = require('underscore'),
-fs = require('fs');
+fs = require('fs'),
+et = require('elementtree');
+
+var XML = et.XML;
+var ElementTree = et.ElementTree;
+var element = et.Element;
+var subElement = et.SubElement;
+
+var etree;
 
 // unzip docx and get body text
 getBody = function(path, callback) {
@@ -15,21 +23,16 @@ getBody = function(path, callback) {
 
         // grabs the body xml
         var entry = _.findWhere(zipEntries, {entryName: "word/document.xml"});
+        entry = entry.getData().toString();
+        etree = et.parse(entry);
+        console.log(etree.findall('w:body/w:p'));
 
-        // parse the body xml and return the blob of interest
-        parser.parseString(entry.getData(), function(err, result) {
-            if (err) return callback(undefined, err);
-            else {
-                var body = result['w:document']['w:body'][0]['w:p'];
-                return callback(body, undefined);
-            }
-        });
     });
-}
+};
 
 exports.getBody = getBody;
 
-// getBody("./nom.docx", function(data, err) {
-//     if (err) console.dir(err);
-//     else console.dir(data);
-// });
+getBody("./nom.docx", function(data, err) {
+    if (err) console.dir(err);
+    else console.dir(data);
+});

@@ -1,0 +1,17 @@
+w:p ==> <p>
+w:r ==> <span> 
+w:pPr ==> <p style="">  
+w:rPr ==> <span style=""> 
+w:b ==> <strong>
+w:i ==> <em>
+w:t ==> literal text
+w:numPr ==> <ol> and <li> or <li>
+w:pStyle w:val="ListParagraph" ==> <ul> and <li> or <li>
+
+{
+	"w:p": []
+}
+newDoc = $('<html />');
+_.each(pars, function(p) {
+	newDoc.append('<p />')q		
+});
