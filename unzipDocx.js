@@ -21,16 +21,33 @@ getBody = function(path, callback) {
         var zipEntries = zip.getEntries();
 
         // grabs the body xml
-        var entry = _.findWhere(zipEntries, {entryName: "word/document.xml"});
+        for (var i = 0; i < zipEntries.length; i++) {
+            if (zipEntries[i].entryName === "word/document.xml") {
+                entry = zipEntries[i];
+                break;
+            }
+        }
         entry = entry.getData().toString();
         etree = et.parse(entry).findall('w:body/w:p');
+        etree.iter();
         return callback(etree, undefined);
     });
 };
+
+// parse = function(tree) {
+
+// }
 
 exports.getBody = getBody;
 
 getBody("./nom.docx", function(data, err) {
     if (err) console.log(err);
-    else console.log(data);
+    else console.dir(data);
+});
+
+var x;
+
+getBody("./nom.docx", function(data, err) {
+    if (err) console.log(err);
+    else x = data;
 });
