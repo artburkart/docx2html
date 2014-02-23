@@ -9,10 +9,9 @@ var ElementTree = et.ElementTree;
 var element = et.Element;
 var subElement = et.SubElement;
 
-var etree;
-
 // unzip docx and get body text
 getBody = function(path, callback) {
+    var etree;
 
     // path validation
     fs.exists(path, function (exists) {
@@ -24,15 +23,14 @@ getBody = function(path, callback) {
         // grabs the body xml
         var entry = _.findWhere(zipEntries, {entryName: "word/document.xml"});
         entry = entry.getData().toString();
-        etree = et.parse(entry);
-        console.log(etree.findall('w:body/w:p'));
-
+        etree = et.parse(entry).findall('w:body/w:p');
+        return callback(etree, undefined);
     });
 };
 
 exports.getBody = getBody;
 
 getBody("./nom.docx", function(data, err) {
-    if (err) console.dir(err);
-    else console.dir(data);
+    if (err) console.log(err);
+    else console.log(data);
 });
