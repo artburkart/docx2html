@@ -1,5 +1,6 @@
 var AdmZip = require('adm-zip'),
-parser = require('xml2js').Parser();
+parser = require('xml2js').Parser(),
+_ = require('underscore');
 
 // unzip docx and get body text
 getBody = function(path, callback) {
@@ -7,7 +8,7 @@ getBody = function(path, callback) {
     var zipEntries = zip.getEntries();
 
     // iterate through documents
-    zipEntries.forEach(function(zipEntry) {
+    _.each(zipEntries, function(zipEntry) {
         if (zipEntry.entryName == "word/document.xml")
             parser.parseString(zipEntry.getData(), function(err, result) {
                 if (err) callback(undefined, err);
